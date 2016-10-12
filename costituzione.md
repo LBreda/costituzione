@@ -811,27 +811,27 @@ Non può limitare il diritto dei cittadini di esercitare in qualunque parte del 
 #####Art. 121.
 Sono organi della Regione: il Consiglio regionale, la Giunta e il suo Presidente.
 
-Il Consiglio regionale esercita le potestà legislative e regolamentari attribuite alla Regione e le altre funzioni conferitegli dalla Costituzione e dalle leggi. Può fare proposte di legge alle Camere.
+Il Consiglio regionale esercita le potestà legislative attribuite alla Regione e le altre funzioni conferitegli dalla Costituzione e dalle leggi. Può fare proposte di legge alle Camere.
 
 La Giunta regionale è l’organo esecutivo delle Regioni.
 
-Il Presidente della Giunta rappresenta la Regione; promulga le leggi ed i regolamenti regionali; dirige le funzioni amministrative delegate dallo Stato alla Regione, conformandosi alle istruzioni del Governo centrale.
+Il Presidente della Giunta rappresenta la Regione; dirige la politica della Giunta e ne è responsabile; promulga le leggi ed emana i regolamenti regionali; dirige le funzioni amministrative delegate dallo Stato alla Regione, conformandosi alle istruzioni del Governo della Repubblica.
 
 #####Art. 122.
-Il sistema d’elezione, il numero e i casi di ineleggibilità e di incompatibilità dei consiglieri regionali sono stabiliti con legge della Repubblica.
+Il sistema di elezione e i casi di ineleggibilità e di incompatibilità del Presidente e degli altri componenti della Giunta regionale nonchè dei consiglieri regionali sono disciplinati con legge della Regione nei limiti dei princìpi fondamentali stabiliti con legge della Repubblica, che stabilisce anche la durata degli organi elettivi.
 
-Nessuno può appartenere contemporaneamente a un Consiglio regionale e ad una delle Camere del Parlamento o ad un altro Consiglio regionale.
+Nessuno può appartenere contemporaneamente a un Consiglio o a una Giunta regionale e ad una delle Camere del Parlamento, ad un altro Consiglio o ad altra Giunta regionale, ovvero al Parlamento europeo.
 
-Il Consiglio elegge nel suo seno un presidente e un ufficio di presidenza per i proprî lavori.
+Il Consiglio elegge tra i suoi componenti un Presidente e un ufficio di presidenza. I consiglieri regionali non possono essere chiamati a rispondere delle opinioni espresse e dei voti dati nell'esercizio delle loro funzioni.
 
-I consiglieri regionali non possono essere chiamati a rispondere delle opinioni espresse e dei voti dati nell’esercizio delle loro funzioni.
-
-Il Presidente ed i membri della Giunta sono eletti dal Consiglio regionale tra i suoi componenti.
+Il Presidente della Giunta regionale, salvo che lo statuto regionale disponga diversamente, è eletto a suffragio universale e diretto. Il Presidente eletto nomina e revoca i componenti della Giunta.
 
 #####Art. 123.
-Ogni Regione ha uno statuto il quale, in armonia con la Costituzione e con le leggi della Repubblica, stabilisce le norme relative all’organizzazione interna della Regione. Lo statuto regola l’esercizio del diritto di iniziativa e del referendum su leggi e provvedimenti amministrativi della Regione e la pubblicazione delle leggi e dei regolamenti regionali.
+Ciascuna Regione ha uno statuto che, in armonia con la Costituzione, ne determina la forma di governo e i princìpi fondamentali di organizzazione e funzionamento. Lo statuto regola l’esercizio del diritto di iniziativa e del referendum su leggi e provvedimenti amministrativi della Regione e la pubblicazione delle leggi e dei regolamenti regionali.
 
-Lo statuto è deliberato dal Consiglio regionale a maggioranza assoluta dei suoi componenti, ed è approvato con legge della Repubblica.
+Lo statuto è approvato e modificato dal Consiglio regionale con legge approvata a maggioranza assoluta dei suoi componenti, con due deliberazioni successive adottate ad intervallo non minore di due mesi. Per tale legge non è richiesta l'apposizione del visto da parte del Commissario del Governo. Il Governo della Repubblica può promuovere la questione di legittimità costituzionale sugli statuti regionali dinanzi alla Corte costituzionale entro trenta giorni dalla loro pubblicazione.
+
+Lo statuto è sottoposto a referendum popolare qualora entro tre mesi dalla sua pubblicazione ne faccia richiesta un cinquantesimo degli elettori della Regione o un quinto dei componenti il Consiglio regionale. Lo statuto sottoposto a referendum non è promulgato se non è approvato dalla maggioranza dei voti validi.
 
 #####Art. 124.
 Un Commissario del Governo, residente nel capoluogo della Regione, sopraintende alle funzioni amministrative esercitate dallo Stato e le coordina con quelle esercitate dalla Regione.
@@ -842,15 +842,11 @@ Il controllo di legittimità sugli atti amministrativi della Regione è esercita
 Nella Regione sono istituiti organi di giustizia amministrativa di primo grado, secondo l’ordinamento stabilito da leggi della Repubblica. Possono istituirsi sezioni con sede diversa dal capoluogo della Regione.
 
 #####Art. 126.
-Il Consiglio regionale può essere sciolto, quando compia atti contrarî alla Costituzione o gravi violazioni di legge, o non corrisponda all’invito del Governo di sostituire la Giunta o il Presidente, che abbiano compiuto analoghi atti o violazioni.
+Con decreto motivato del Presidente della Repubblica sono disposti lo scioglimento del Consiglio regionale e la rimozione del Presidente della Giunta che abbiano compiuto atti contrari alla Costituzione o gravi violazioni di legge. Lo scioglimento e la rimozione possono altresì essere disposti per ragioni di sicurezza nazionale. Il decreto è adottato sentita una Commissione di deputati e senatori costituita, per le questioni regionali, nei modi stabiliti con legge della Repubblica.
 
-Può essere sciolto quando, per dimissioni o per impossibilità di formare una maggioranza, non sia in grado di funzionare.
+Il Consiglio regionale può esprimere la sfiducia nei confronti del Presidente della Giunta mediante mozione motivata, sottoscritta da almeno un quinto dei suoi componenti e approvata per appello nominale a maggioranza assoluta dei componenti. La mozione non può essere messa in discussione prima di tre giorni dalla presentazione.
 
-Può essere altresì sciolto per ragioni di sicurezza nazionale.
-
-Lo scioglimento è disposto con decreto motivato del Presidente della Repubblica, sentita una Commissione di deputati e senatori costituita, per le questioni regionali, nei modi stabiliti con legge della Repubblica.
-
-Col decreto di scioglimento è nominata una Commissione di tre cittadini eleggibili al Consiglio regionale, che indice le elezioni entro tre mesi e provvede all’ordinaria amministrazione di competenza della Giunta e agli atti improrogabili, da sottoporre alla ratifica del nuovo Consiglio.
+L’approvazione della mozione di sfiducia nei confronti del Presidente della Giunta eletto a suffragio universale e diretto, nonchè la rimozione, l'impedimento permanente, la morte o le dimissioni volontarie dello stesso comportano le dimissioni della Giunta e lo scioglimento del Consiglio. In ogni caso i medesimi effetti conseguono alle dimissioni contestuali della maggioranza dei componenti il Consiglio.
 
 #####Art. 127.
 Ogni legge approvata dal Consiglio regionale è comunicata al Commissario che, salvo il caso di opposizione da parte del Governo, deve vistarla nel termine di trenta giorni dalla comunicazione.
