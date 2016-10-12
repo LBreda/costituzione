@@ -362,20 +362,22 @@ Il Parlamento si compone della Camera dei deputati e del Senato della Repubblica
 Il Parlamento si riunisce in seduta comune dei membri delle due Camere nei soli casi stabiliti dalla Costituzione.
 
 #####Art. 56.
-La Camera dei deputati è eletta a suffragio universale e diretto. Il numero dei deputati è di seicentotrenta.
+La Camera dei deputati è eletta a suffragio universale e diretto.
+
+Il numero dei deputati è di seicentotrenta, dodici dei quali eletti nella circoscrizione Estero.
 
 Solo eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hanno compiuto i venticinque anni di età.
 
-La ripartizione dei seggi tra le circoscrizioni si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall’ultimo censimento generale della popolazione, per seicentotrenta e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti.
+La ripartizione dei seggi tra le circoscrizioni, fatto salvo il numero dei seggi assegnati alla circoscrizione Estero, si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per seicentodiciotto e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti.
 
 #####Art. 57.
-Il Senato della Repubblica è eletto a base regionale.
+Il Senato della Repubblica è eletto a base regionale, salvi i seggi assegnati alla circoscrizione Estero.
 
-Il numero dei senatori elettivi è di trecentoquindici.
+Il numero dei senatori elettivi è di trecentoquindici, sei dei quali eletti nella circoscrizione Estero.
 
 Nessuna Regione può avere un numero di senatori inferiore a sette; il Molise ne ha due, la Valle d’Aosta uno.
 
-La ripartizione dei seggi tra le Regioni, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla popolazione delle Regioni, quale risulta dall’ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti.
+La ripartizione dei seggi tra le Regioni, fattosalvo il numero dei seggi assegnati alla circoscrizione Estero, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla popolazione delle Regioni, quale risulta dall’ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti.
 
 #####Art. 58.
 I senatori sono eletti a suffragio universale e diretto dagli elettori che hanno superato il venticinquesimo anno di età.
