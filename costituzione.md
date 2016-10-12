@@ -765,62 +765,81 @@ La legge determina quali organi di giurisdizione possono annullare gli atti dell
 ###TITOLO V - LE REGIONI, LE PROVINCIE, I COMUNI
 
 #####Art. 114.
-La Repubblica si riparte in Regioni, Provincie e Comuni.
+La Repubblica è costituita dai Comuni, dalle Province, dalle Città metropolitane, dalle Regioni e dallo Stato.
+
+I Comuni, le Province, le Città metropolitane e le Regioni sono enti autonomi con propri statuti, poteri e funzioni secondo i principi fissati dalla Costituzione.
+
+Roma è la capitale della Repubblica. La legge dello Stato disciplina il suo ordinamento.
 
 #####Art. 115.
-Le Regioni sono costituite in enti autonomi con propri poteri e funzioni secondo i principî fissati nella Costituzione.
+(abrogato)
 
 #####Art. 116.
-Alla Sicilia, alla Sardegna, al Trentino-Alto Adige, al Friuli-Venezia Giulia e alla Valle d’Aosta sono attribuite forme e condizioni particolari di autonomia secondo statuti speciali adottati con leggi costituzionali.
+Il Friuli Venezia Giulia, la Sardegna, la Sicilia, il Trentino-Alto Adige/Südtirol e la Valle d'Aosta/Vallée d'Aoste dispongono di forme e condizioni particolari di autonomia, secondo i rispettivi statuti speciali adottati con legge costituzionale. La Regione Trentino-Alto Adige/Südtirol è costituita dalle Province autonome di Trento e di Bolzano.
+
+Ulteriori forme e condizioni particolari di autonomia, concernenti le materie di cui al terzo comma dell’articolo 117 e le materie indicate dal secondo comma del medesimo articolo alle lettere l), limitatamente all’organizzazione della giustizia di pace, n) e s), possono essere attribuite ad altre Regioni, con legge dello Stato, su iniziativa della Regione interessata, sentiti gli enti locali, nel rispetto dei principi di cui all’articolo 119. La legge è approvata dalle Camere a maggioranza assoluta dei componenti, sulla base di intesa fra lo Stato e la Regione interessata.
 
 #####Art. 117.
-La Regione emana per le seguenti materie norme legislative nei limiti dei principî fondamentali stabiliti dalle leggi dello Stato, semprechè le norme stesse non siano in contrasto con l’interesse nazionale e con quello di altre Regioni:
+La potestà legislativa è esercitata dallo Stato e dalle Regioni nel rispetto della Costituzione, nonché dei vincoli derivanti dall’ordinamento comunitario e dagli obblighi internazionali.
 
-* Ordinamento degli uffici e degli enti amministrativi dipendenti dalla Regione;
-* Circoscrizioni comunali;
-* Polizia locale urbana e rurale;
-* Fiere e mercati;
-* Beneficenza pubblica ed assistenza sanitaria ed ospedaliera;
-* Istruzione artigiana e professionale e assistenza scolastica;
-* Musei e biblioteche di enti locali;
-* Urbanistica;
-* Turismo ed industria alberghiera;
-* Tramvie e linee automobilistiche d’interesse regionale;
-* Viabilità, acquedotti e lavori pubblici di interesse regionale;
-* Navigazione e porti lacuali;
-* Acque minerali e termali;
-* Cave e torbiere;
-* Caccia;
-* Pesca nelle acque interne;
-* Agricoltura e foreste;
-* Artigianato.
+Lo Stato ha legislazione esclusiva nelle seguenti materie:
 
-Altre materie indicate da leggi costituzionali.
+* a) politica estera e rapporti internazionali dello Stato; rapporti dello Stato con l'Unione europea; diritto di asilo e condizione giuridica dei cittadini di Stati non appartenenti all'Unione europea;
+* b) immigrazione;
+* c) rapporti tra la Repubblica e le confessioni religiose;
+* d) difesa e Forze armate; sicurezza dello Stato; armi, munizioni ed esplosivi;
+* e) moneta, tutela del risparmio e mercati finanziari; tutela della concorrenza; sistema valutario; sistema tributario e contabile dello Stato; perequazione delle risorse finanziarie;
+* f) organi dello Stato e relative leggi elettorali; referendum statali; elezione del Parlamento europeo;
+* g) ordinamento e organizzazione amministrativa dello Stato e degli enti pubblici nazionali;
+* h) ordine pubblico e sicurezza, ad esclusione della polizia amministrativa locale;
+* i) cittadinanza, stato civile e anagrafi;
+* l) giurisdizione e norme processuali; ordinamento civile e penale; giustizia amministrativa;
+* m) determinazione dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali che devono essere garantiti su tutto il territorio nazionale;
+* n) norme generali sull'istruzione;
+* o) previdenza sociale;
+* p) legislazione elettorale, organi di governo e funzioni fondamentali di Comuni, Province e Città metropolitane;
+* q) dogane, protezione dei confini nazionali e profilassi internazionale;
+* r) pesi, misure e determinazione del tempo; coordinamento informativo statistico e informatico dei dati dell'amministrazione statale, regionale e locale; opere dell'ingegno;
+* s) tutela dell'ambiente, dell'ecosistema e dei beni culturali.
 
-Le leggi della Repubblica possono demandare alla Regione il potere di emanare norme per la loro attuazione.
+Sono materie di legislazione concorrente quelle relative a: rapporti internazionali e con l’Unione europea delle Regioni; commercio con l’estero; tutela e sicurezza del lavoro; istruzione, salva l’autonomia delle istituzioni scolastiche e con esclusione della istruzione e della formazione professionale; professioni; ricerca scientifica e tecnologica e sostegno all'innovazione per i settori produttivi; tutela della salute; alimentazione; ordinamento sportivo; protezione civile; governo del territorio; porti e aeroporti civili; grandi reti di trasporto e di navigazione; ordinamento della comunicazione; produzione, trasporto e distribuzione nazionale dell'energia; previdenza complementare e integrativa; armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica e del sistema tributario; valorizzazione dei beni culturali e ambientali e promozione e organizzazione di attività culturali; casse di risparmio, casse rurali, aziende di credito a carattere regionale; enti di credito fondiario e agrario a carattere regionale. Nelle materie di legislazione concorrente spetta alle Regioni la potestà legislativa, salvo che per la determinazione dei principi fondamentali, riservata alla legislazione dello Stato.
+
+Spetta alle Regioni la potestà legislativa in riferimento ad ogni materia non espressamente riservata alla legislazione dello Stato.
+
+Le Regioni e le Province autonome di Trento e di Bolzano, nelle materie di loro competenza, partecipano alle decisioni dirette alla formazione degli atti normativi comunitari e provvedono all'attuazione e all'esecuzione degli accordi internazionali e degli atti dell’Unione europea, nel rispetto delle norme di procedura stabilite da legge dello Stato, che disciplina le modalità di esercizio del potere sostitutivo in caso di inadempienza.
+
+La potestà regolamentare spetta allo Stato nelle materie di legislazione esclusiva, salva delega alle Regioni. La potestà regolamentare spetta alle Regioni in ogni altra materia. I Comuni, le Province e le Città metropolitane hanno potestà regolamentare in ordine alla disciplina dell'organizzazione e dello svolgimento delle funzioni loro attribuite.
+
+Le leggi regionali rimuovono ogni ostacolo che impedisce la piena parità degli uomini e delle donne nella vita sociale, culturale ed economica e promuovono la parità di accesso tra donne e uomini alle cariche elettive.
+
+La legge regionale ratifica le intese della Regione con altre Regioni per il migliore esercizio delle proprie funzioni, anche con individuazione di organi comuni.
+
+Nelle materie di sua competenza la Regione può concludere accordi con Stati e intese con enti territoriali interni ad altro Stato, nei casi e con le forme disciplinati da leggi dello Stato.
 
 #####Art. 118.
-Spettano alla Regione le funzioni amministrative per le materie elencate nel precedente articolo, salvo quelle di interesse esclusivamente locale, che possono essere attribuite dalle leggi della Repubblica alle Provincie, ai Comuni o ad altri enti locali.
+Le funzioni amministrative sono attribuite ai Comuni salvo che, per assicurarne l'esercizio unitario, siano conferite a Province, Città metropolitane, Regioni e Stato, sulla base dei principi di sussidiarietà, differenziazione ed adeguatezza.
 
-Lo Stato può con legge delegare alla Regione l’esercizio di altre funzioni amministrative.
+I Comuni, le Province e le Città metropolitane sono titolari di funzioni amministrative proprie e di quelle conferite con legge statale o regionale, secondo le rispettive competenze. La legge statale disciplina forme di coordinamento fra Stato e Regioni nelle materie di cui alle lettere b) e h) del secondo comma dell'articolo 117, e disciplina inoltre forme di intesa e coordinamento nella materia della tutela dei beni culturali.
 
-La Regione esercita normalmente le sue funzioni amministrative delegandole alle Provincie, ai Comuni o ad altri enti locali, o valendosi dei loro uffici.
+Stato, Regioni, Città metropolitane, Province e Comuni favoriscono l'autonoma iniziativa dei cittadini, singoli e associati, per lo svolgimento di attività di interesse generale, sulla base del principio di sussidiarietà.
 
 #####Art. 119.
-Le Regioni hanno autonomia finanziaria nelle forme e nei limiti stabiliti da leggi della Repubblica, che la coordinano con la finanza dello Stato, delle Provincie dei Comuni.
+I Comuni, le Province, le Città metropolitane e le Regioni hanno autonomia finanziaria di entrata e di spesa.
 
-Alle Regioni sono attribuiti tributi proprî e quote di tributi erariali, in relazione ai bisogni delle Regioni per le spese necessarie ad adempiere le loro funzioni normali.
+I Comuni, le Province, le Città metropolitane e le Regioni hanno risorse autonome. Stabiliscono e applicano tributi ed entrate propri, in armonia con la Costituzione e secondo i principi di coordinamento della finanza pubblica e del sistema tributario. Dispongono di compartecipazioni al gettito di tributi erariali riferibile al loro territorio.
 
-Per provvedere a scopi determinati, e particolarmente per valorizzare il Mezzogiorno e le Isole, lo Stato assegna per legge a singole Regioni contributi speciali.
+La legge dello Stato istituisce un fondo perequativo, senza vincoli di destinazione, per i territori con minore capacità fiscale per abitante.
 
-La Regione ha un proprio demanio e patrimonio, secondo le modalità stabilite con legge della Repubblica.
+Le risorse derivanti dalle fonti di cui ai commi precedenti consentono ai Comuni, alle Province, alle Città metropolitane e alle Regioni di finanziare integralmente le funzioni pubbliche loro attribuite.
+
+Per promuovere lo sviluppo economico, la coesione e la solidarietà sociale, per rimuovere gli squilibri economici e sociali, per favorire l’effettivo esercizio dei diritti della persona, o per provvedere a scopi diversi dal normale esercizio delle loro funzioni, lo Stato destina risorse aggiuntive ed effettua interventi speciali in favore di determinati Comuni, Province, Città metropolitane e Regioni.
+
+I Comuni, le Province, le Città metropolitane e le Regioni hanno un proprio patrimonio, attribuito secondo i principi generali determinati dalla legge dello Stato. Possono ricorrere all'indebitamento solo per finanziare spese di investimento. È esclusa ogni garanzia dello Stato sui prestiti dagli stessi contratti.
 
 #####Art. 120.
-La Regione non può istituire dazî d’importazione o esportazione o transito fra le Regioni.
+La Regione non può istituire dazi di importazione o esportazione o transito tra le Regioni, né adottare provvedimenti che ostacolino in qualsiasi modo la libera circolazione delle persone e delle cose tra le Regioni, né limitare l’esercizio del diritto al lavoro in qualunque parte del territorio nazionale.
 
-Non può adottare provvedimenti che ostacolino in qualsiasi modo la libera circolazione delle persone e delle cose fra le Regioni.
-
-Non può limitare il diritto dei cittadini di esercitare in qualunque parte del territorio nazionale la loro professione, impiego o lavoro.
+Il Governo può sostituirsi a organi delle Regioni, delle Città metropolitane, delle Province e dei Comuni nel caso di mancato rispetto di norme e trattati internazionali o della normativa comunitaria oppure di pericolo grave per l’incolumità e la sicurezza pubblica, ovvero quando lo richiedono la tutela dell’unità giuridica o dell’unità economica e in particolare la tutela dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali, prescindendo dai confini territoriali dei governi locali. La legge definisce le procedure atte a garantire che i poteri sostitutivi siano esercitati nel rispetto del principio di sussidiarietà e del principio di leale collaborazione
 
 #####Art. 121.
 Sono organi della Regione: il Consiglio regionale, la Giunta e il suo Presidente.
@@ -847,12 +866,12 @@ Lo statuto è approvato e modificato dal Consiglio regionale con legge approvata
 
 Lo statuto è sottoposto a referendum popolare qualora entro tre mesi dalla sua pubblicazione ne faccia richiesta un cinquantesimo degli elettori della Regione o un quinto dei componenti il Consiglio regionale. Lo statuto sottoposto a referendum non è promulgato se non è approvato dalla maggioranza dei voti validi.
 
+In ogni Regione, lo statuto disciplina il Consiglio delle autonomie locali, quale organo di consultazione fra la Regione e gli enti locali.
+
 #####Art. 124.
-Un Commissario del Governo, residente nel capoluogo della Regione, sopraintende alle funzioni amministrative esercitate dallo Stato e le coordina con quelle esercitate dalla Regione.
+(abrogato)
 
 #####Art. 125.
-Il controllo di legittimità sugli atti amministrativi della Regione è esercitato, in forma decentrata, da un organo dello Stato nei modi e nei limiti stabiliti da leggi della Repubblica. La legge può in determinati casi ammettere il controllo di merito, al solo effetto di promuovere, con richiesta motivata, il riesame della deliberazione da parte del Consiglio regionale.
-
 Nella Regione sono istituiti organi di giustizia amministrativa di primo grado, secondo l’ordinamento stabilito da leggi della Repubblica. Possono istituirsi sezioni con sede diversa dal capoluogo della Regione.
 
 #####Art. 126.
@@ -863,26 +882,16 @@ Il Consiglio regionale può esprimere la sfiducia nei confronti del Presidente d
 L’approvazione della mozione di sfiducia nei confronti del Presidente della Giunta eletto a suffragio universale e diretto, nonchè la rimozione, l'impedimento permanente, la morte o le dimissioni volontarie dello stesso comportano le dimissioni della Giunta e lo scioglimento del Consiglio. In ogni caso i medesimi effetti conseguono alle dimissioni contestuali della maggioranza dei componenti il Consiglio.
 
 #####Art. 127.
-Ogni legge approvata dal Consiglio regionale è comunicata al Commissario che, salvo il caso di opposizione da parte del Governo, deve vistarla nel termine di trenta giorni dalla comunicazione.
-
-La legge è promulgata nei dieci giorni dalla apposizione del visto ed entra in vigore non prima di quindici giorni dalla sua pubblicazione. Se una legge è dichiarata urgente dal Consiglio regionale, e il Governo della Repubblica lo consente, la promulgazione e l’entrata in vigore non sono subordinate ai termini indicati.
-
-Il Governo della Repubblica, quando ritenga che una legge approvata dal Consiglio regionale ecceda la competenza della Regione o contrasti con gli interessi nazionali o con quelli di altre Regioni, la rinvia al Consiglio regionale nel termine fissato per l’apposizione del visto.
-
-Ove il Consiglio regionale l’approvi di nuovo a maggioranza assoluta dei suoi componenti, il Governo della Repubblica può, nei quindici giorni dalla comunicazione, promuovere la questione di legittimità davanti alla Corte costituzionale, o quella di merito per contrasto di interessi davanti alle Camere. In caso di dubbio, la Corte decide di chi sia la competenza.
+Il Governo, quando ritenga che una legge regionale ecceda la competenza della Regione, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale entro sessanta giorni dalla sua pubblicazione. La Regione, quando ritenga che una legge o un atto avente valore di legge dello Stato o di un’altra Regione leda la sua sfera di competenza, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale entro sessanta giorni dalla pubblicazione della legge o dell'atto avente valore di legge
 
 #####Art. 128.
-Le Provincie e i Comuni sono enti autonomi nell’ambito dei principî fissati da leggi generali della Repubblica, che ne determinano le funzioni.
+(abrogato)
 
 #####Art. 129.
-Le Provincie e i Comuni sono anche circoscrizioni di decentramento statale e regionale.
-
-Le circoscrizioni provinciali possono essere suddivise in circondari con funzioni esclusivamente amministrative per un ulteriore decentramento.
+(abrogato)
 
 #####Art. 130.
-Un organo della Regione, costituito nei modi stabiliti da legge della Repubblica, esercita, anche in forma decentrata, il controllo di legittimità sugli atti delle Provincie, dei Comuni e degli altri enti locali.
-
-In casi determinati dalla legge può essere esercitato il controllo di merito, nella forma di richiesta motivata agli enti deliberanti di riesaminare la loro deliberazione.
+(abrogato)
 
 #####Art. 131.
 Sono costituite le seguenti Regioni:
@@ -911,7 +920,7 @@ Sono costituite le seguenti Regioni:
 #####Art. 132.
 Si può con legge costituzionale, sentiti i Consigli regionali, disporre la fusione di Regioni esistenti o la creazione di nuove Regioni con un minimo di un milione d’abitanti, quando ne facciano richiesta tanti consigli comunali che rappresentino almeno un terzo delle popolazioni interessate, e la proposta sia approvata con referendum dalla maggioranza delle popolazioni stesse.
 
-Si può, con referendum e con legge della Repubblica, sentiti i Consigli regionali, consentire che Provincie e Comuni, che ne facciano richiesta, siano staccati da una Regione ed aggregati ad un’altra.
+Si può, con l’approvazione della maggioranza delle popolazioni della Provincia o delle Province interessate e del Comune o dei Comuni interessati espressa mediante referendum e con legge della Repubblica, sentiti i Consigli regionali, consentire che Provincie e Comuni, che ne facciano richiesta, siano staccati da una Regione ed aggregati ad un’altra.
 
 #####Art. 133.
 Il mutamento delle circoscrizioni provinciali e la istituzione di nuove Provincie nell’ambito d’una Regione sono stabiliti con leggi della Repubblica, su iniziativa dei Comuni, sentita la stessa Regione.
