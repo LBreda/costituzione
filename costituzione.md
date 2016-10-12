@@ -619,7 +619,7 @@ I ministri sono responsabili collegialmente degli atti del Consiglio dei ministr
 La legge provvede all’ordinamento della Presidenza del Consiglio e determina il numero, le attribuzioni e l’organizzazione dei ministeri.
 
 #####Art. 96.
-Il Presidente del Consiglio dei ministri e i ministri sono posti in stato d’accusa dal Parlamento in seduta comune per reati commessi nell’esercizio delle loro funzioni.
+Il Presidente del Consiglio dei Ministri ed i Ministri, anche se cessati dalla carica, sono sottoposti, per i reati commessi nell’esercizio delle loro funzioni, alla giurisdizione ordinaria, previa autorizzazione del Senato della Repubblica o della Camera dei Deputati, secondo le norme stabilite con legge costituzionale.
 
 
 ####Sezione II. - La Pubblica Amministrazione.
@@ -917,7 +917,7 @@ La Corte costituzionale giudica:
 
 * sulle controversie relative alla legittimità costituzionale delle leggi e degli atti aventi forza di legge, dello Stato e delle Regioni;
 * sui conflitti di attribuzione tra i poteri dello Stato e su quelli tra lo Stato e le Regioni, e tra le Regioni;
-* sulle accuse promosse contro il Presidente della Repubblica ed i Ministri, a norma della Costituzione.
+* sulle accuse promosse contro il Presidente della Repubblica, a norma della Costituzione.
 
 #####Art. 135.
 La Corte costituzionale è composta di quindici giudici nominati per un terzo dal Presidente della Repubblica, per un terzo del Parlamento in seduta comune e per un terzo dalle supreme magistrature ordinaria ed amministrativa.
@@ -932,7 +932,7 @@ La Corte elegge tra i suoi componenti, secondo le norme stabilite dalla legge, i
 
 L'ufficio di giudice della Corte è incompatibile con quello di membro del Parlamento, di un Consiglio regionale, con l’esercizio della professione di avvocato e con ogni carica ed ufficio indicati dalla legge.
 
-Nei giudizi d’accusa contro il Presidente della Repubblica e contro i Ministri intervengono, oltre i giudici ordinari della Corte, sedici membri tratti a sorte da un elenco di cittadini aventi i requisiti per l’eleggibilità a senatore, che il Parlamento compila ogni nove anni mediante elezione con le stesse modalità stabilite per la nomina dei giudici ordinari
+Nei giudizi d’accusa contro il Presidente della Repubblica intervengono, oltre i giudici ordinari della Corte, sedici membri tratti a sorte da un elenco di cittadini aventi i requisiti per l’eleggibilità a senatore, che il Parlamento compila ogni nove anni mediante elezione con le stesse modalità stabilite per la nomina dei giudici ordinari
 
 #####Art. 136.
 Quando la Corte dichiara l’illegittimità costituzionale di una norma di legge o di atto avente forza di legge, la norma cessa di avere efficacia dal giorno successivo alla pubblicazione della decisione.
