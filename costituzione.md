@@ -313,6 +313,8 @@ Sono elettori tutti i cittadini, uomini e donne, che hanno raggiunto la maggiore
 
 Il voto è personale ed eguale, libero e segreto. Il suo esercizio è dovere civico.
 
+La legge stabilisce requisiti e modalità per l’esercizio del diritto di voto dei cittadini residenti all’estero e ne assicura l’effettività. A tale fine è istituita una circoscrizione Estero per l'elezione delle Camere, alla quale sono assegnati seggi nel numero stabilito da norma costituzionale e secondo criteri determinati dalla legge.
+
 Il diritto di voto non può essere limitato se non per incapacità civile o per effetto di sentenza penale irrevocabile e nei casi di indegnità morale indicati dalla legge.
 
 #####Art. 49.
