@@ -165,7 +165,7 @@ L’imputato non è considerato colpevole sino alla condanna definitiva.
 
 Le pene non possono consistere in trattamenti contrarî al senso di umanità e devono tendere alla rieducazione del condannato.
 
-Non è ammessa la pena di morte, se non nei casi previsti dalle leggi militari di guerra.
+Non è ammessa la pena di morte.
 
 #####Art. 28.
 I funzionari e i dipendenti dello Stato e degli enti pubblici sono direttamente responsabili, secondo le leggi penali, civili e amministrative, degli atti compiuti in violazione di diritti. In tali casi la responsabilità civile si estende allo Stato e agli enti pubblici.
