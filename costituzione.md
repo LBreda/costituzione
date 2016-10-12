@@ -924,13 +924,15 @@ La Corte costituzionale è composta di quindici giudici nominati per un terzo da
 
 I giudici della Corte costituzionale sono scelti tra i magistrati anche a riposo delle giurisdizioni superiori ordinarie ed amministrative, i professori ordinari di università in materie giuridiche e gli avvocati dopo venti anni di esercizio.
 
-La Corte elegge il presidente tra i suoi componenti.
+I giudici della Corte costituzionale sono nominati per nove anni, decorrenti per ciascuno di essi dal giorno del giuramento, e non possono essere nuovamente nominati.
 
-I giudici sono nominati per dodici anni, si rinnovano parzialmente secondo le norme stabilite dalla legge e non sono immediatamente rieleggibili.
+Alla scadenza del termine il giudice costituzionale cessa dalla carica e dall'esercizio delle funzioni.
 
-L’ufficio di giudice della Corte è incompatibile con quello di membro del Parlamento o d’un Consiglio regionale, con l’esercizio della professione di avvocato e con ogni carica ed ufficio indicati dalla legge.
+La Corte elegge tra i suoi componenti, secondo le norme stabilite dalla legge, il Presidente, che rimane in carica per un triennio, ed è rieleggibile, fermi in ogni caso i termini di scadenza dall'ufficio di giudice.
 
-Nei giudizi d’accusa contro il Presidente della Repubblica e contro i Ministri intervengono, oltre i giudici ordinari della Corte, sedici membri eletti, all’inizio di ogni legislatura, dal Parlamento in seduta comune tra cittadini aventi i requisiti per l’eleggibilità a senatore.
+L'ufficio di giudice della Corte è incompatibile con quello di membro del Parlamento, di un Consiglio regionale, con l’esercizio della professione di avvocato e con ogni carica ed ufficio indicati dalla legge.
+
+Nei giudizi d’accusa contro il Presidente della Repubblica e contro i Ministri intervengono, oltre i giudici ordinari della Corte, sedici membri tratti a sorte da un elenco di cittadini aventi i requisiti per l’eleggibilità a senatore, che il Parlamento compila ogni nove anni mediante elezione con le stesse modalità stabilite per la nomina dei giudici ordinari
 
 #####Art. 136.
 Quando la Corte dichiara l’illegittimità costituzionale di una norma di legge o di atto avente forza di legge, la norma cessa di avere efficacia dal giorno successivo alla pubblicazione della decisione.
