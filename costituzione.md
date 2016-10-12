@@ -371,8 +371,7 @@ Il Senato della Repubblica è eletto a base regionale.
 
 Il numero dei senatori elettivi è di trecentoquindici.
 
-
-Nessuna Regione può avere un numero di senatori inferiore a sette. La Valle d’Aosta ha un solo senatore.
+Nessuna Regione può avere un numero di senatori inferiore a sette; il Molise ne ha due, la Valle d’Aosta uno.
 
 La ripartizione dei seggi tra le Regioni, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla popolazione delle Regioni, quale risulta dall’ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti.
 
@@ -888,7 +887,8 @@ Sono costituite le seguenti Regioni:
 * Umbria;
 * Marche;
 * Lazio;
-* Abruzzi e Molise;
+* Abruzzi;
+* Molise;
 * Campania;
 * Puglia;
 * Basilicata;
