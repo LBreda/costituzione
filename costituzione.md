@@ -508,13 +508,18 @@ In ogni caso l’amnistia e l’indulto non possono applicarsi ai reati commessi
 Le Camere autorizzano con legge la ratifica dei trattati internazionali che sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o importano variazioni del territorio od oneri alle finanze o modificazioni di leggi.
 
 #####Art. 81.
-Le Camere approvano ogni anno i bilanci e il rendiconto consuntivo presentati dal Governo.
+o Stato assicura l'equilibrio tra le entrate e le spese del proprio bilancio, tenendo conto delle fasi avverse e delle fasi favorevoli del ciclo economico.
 
-L’esercizio provvisorio del bilancio non può essere concesso se non per legge e per periodi non superiori complessivamente a quattro mesi.
+Il ricorso all’indebitamento è consentito solo al fine di considerare gli effetti del ciclo economico e, previa autorizzazione
+delle Camere adottata a maggioranza assoluta dei rispettivi componenti, al verificarsi di eventi eccezionali.
 
-Con la legge di approvazione del bilancio non si possono stabilire nuovi tributi e nuove spese.
+Ogni legge che importi nuovi o maggiori oneri provvede ai mezzi per farvi fronte.
 
-Ogni altra legge che importi nuove o maggiori spese deve indicare i mezzi per farvi fronte.
+Le Camere ogni anno approvano con legge il bilancio e il rendiconto consuntivo presentati dal Governo.
+
+L’esercizio provvisorio del bilancio non puo' essere concesso se non per legge e per periodi non superiori complessivamente a quattro mesi. 
+
+Il contenuto della legge di bilancio, le norme fondamentali e i criteri volti ad assicurare l'equilibrio tra le entrate e le spese dei bilanci e la sostenibilità del debito del complesso delle pubbliche amministrazioni sono stabiliti con legge approvata a maggioranza assoluta dei componenti di ciascuna Camera, nel rispetto dei principi definiti con legge costituzionale.
 
 #####Art. 82.
 Ciascuna Camera può disporre inchieste su materie di pubblico interesse.
@@ -631,6 +636,8 @@ Il Presidente del Consiglio dei Ministri ed i Ministri, anche se cessati dalla c
 ####Sezione II. - La Pubblica Amministrazione.
 
 #####Art. 97.
+Le pubbliche amministrazioni, in coerenza con l’ordinamento dell’Unione europea, assicurano l’equilibrio dei bilanci e la sostenibilità del debito pubblico.
+
 I pubblici uffici sono organizzati secondo disposizioni di legge, in modo che siano assicurati il buon andamento e l’imparzialità dell’amministrazione.
 
 Nell’ordinamento degli uffici sono determinate le sfere di competenza, le attribuzioni e le responsabilità proprie dei funzionari.
@@ -788,7 +795,7 @@ Lo Stato ha legislazione esclusiva nelle seguenti materie:
 * b) immigrazione;
 * c) rapporti tra la Repubblica e le confessioni religiose;
 * d) difesa e Forze armate; sicurezza dello Stato; armi, munizioni ed esplosivi;
-* e) moneta, tutela del risparmio e mercati finanziari; tutela della concorrenza; sistema valutario; sistema tributario e contabile dello Stato; perequazione delle risorse finanziarie;
+* e) moneta, tutela del risparmio e mercati finanziari; tutela della concorrenza; sistema valutario; sistema tributario e contabile dello Stato; armonizzazione dei bilanci pubblici; perequazione delle risorse finanziarie;
 * f) organi dello Stato e relative leggi elettorali; referendum statali; elezione del Parlamento europeo;
 * g) ordinamento e organizzazione amministrativa dello Stato e degli enti pubblici nazionali;
 * h) ordine pubblico e sicurezza, ad esclusione della polizia amministrativa locale;
@@ -802,7 +809,7 @@ Lo Stato ha legislazione esclusiva nelle seguenti materie:
 * r) pesi, misure e determinazione del tempo; coordinamento informativo statistico e informatico dei dati dell'amministrazione statale, regionale e locale; opere dell'ingegno;
 * s) tutela dell'ambiente, dell'ecosistema e dei beni culturali.
 
-Sono materie di legislazione concorrente quelle relative a: rapporti internazionali e con l’Unione europea delle Regioni; commercio con l’estero; tutela e sicurezza del lavoro; istruzione, salva l’autonomia delle istituzioni scolastiche e con esclusione della istruzione e della formazione professionale; professioni; ricerca scientifica e tecnologica e sostegno all'innovazione per i settori produttivi; tutela della salute; alimentazione; ordinamento sportivo; protezione civile; governo del territorio; porti e aeroporti civili; grandi reti di trasporto e di navigazione; ordinamento della comunicazione; produzione, trasporto e distribuzione nazionale dell'energia; previdenza complementare e integrativa; armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica e del sistema tributario; valorizzazione dei beni culturali e ambientali e promozione e organizzazione di attività culturali; casse di risparmio, casse rurali, aziende di credito a carattere regionale; enti di credito fondiario e agrario a carattere regionale. Nelle materie di legislazione concorrente spetta alle Regioni la potestà legislativa, salvo che per la determinazione dei principi fondamentali, riservata alla legislazione dello Stato.
+Sono materie di legislazione concorrente quelle relative a: rapporti internazionali e con l’Unione europea delle Regioni; commercio con l’estero; tutela e sicurezza del lavoro; istruzione, salva l’autonomia delle istituzioni scolastiche e con esclusione della istruzione e della formazione professionale; professioni; ricerca scientifica e tecnologica e sostegno all'innovazione per i settori produttivi; tutela della salute; alimentazione; ordinamento sportivo; protezione civile; governo del territorio; porti e aeroporti civili; grandi reti di trasporto e di navigazione; ordinamento della comunicazione; produzione, trasporto e distribuzione nazionale dell'energia; previdenza complementare e integrativa; coordinamento della finanza pubblica e del sistema tributario; valorizzazione dei beni culturali e ambientali e promozione e organizzazione di attività culturali; casse di risparmio, casse rurali, aziende di credito a carattere regionale; enti di credito fondiario e agrario a carattere regionale. Nelle materie di legislazione concorrente spetta alle Regioni la potestà legislativa, salvo che per la determinazione dei principi fondamentali, riservata alla legislazione dello Stato.
 
 Spetta alle Regioni la potestà legislativa in riferimento ad ogni materia non espressamente riservata alla legislazione dello Stato.
 
@@ -824,7 +831,7 @@ I Comuni, le Province e le Città metropolitane sono titolari di funzioni ammini
 Stato, Regioni, Città metropolitane, Province e Comuni favoriscono l'autonoma iniziativa dei cittadini, singoli e associati, per lo svolgimento di attività di interesse generale, sulla base del principio di sussidiarietà.
 
 #####Art. 119.
-I Comuni, le Province, le Città metropolitane e le Regioni hanno autonomia finanziaria di entrata e di spesa.
+I Comuni, le Province, le Città metropolitane e le Regioni hanno autonomia finanziaria di entrata e di spesa, nel rispetto dell’equilibrio dei relativi bilanci, e concorrono ad assicurare l'osservanza dei vincoli economici e finanziari derivanti dall’ordinamento dell'Unione europea.
 
 I Comuni, le Province, le Città metropolitane e le Regioni hanno risorse autonome. Stabiliscono e applicano tributi ed entrate propri, in armonia con la Costituzione e secondo i principi di coordinamento della finanza pubblica e del sistema tributario. Dispongono di compartecipazioni al gettito di tributi erariali riferibile al loro territorio.
 
@@ -834,7 +841,7 @@ Le risorse derivanti dalle fonti di cui ai commi precedenti consentono ai Comuni
 
 Per promuovere lo sviluppo economico, la coesione e la solidarietà sociale, per rimuovere gli squilibri economici e sociali, per favorire l’effettivo esercizio dei diritti della persona, o per provvedere a scopi diversi dal normale esercizio delle loro funzioni, lo Stato destina risorse aggiuntive ed effettua interventi speciali in favore di determinati Comuni, Province, Città metropolitane e Regioni.
 
-I Comuni, le Province, le Città metropolitane e le Regioni hanno un proprio patrimonio, attribuito secondo i principi generali determinati dalla legge dello Stato. Possono ricorrere all'indebitamento solo per finanziare spese di investimento. È esclusa ogni garanzia dello Stato sui prestiti dagli stessi contratti.
+I Comuni, le Province, le Città metropolitane e le Regioni hanno un proprio patrimonio, attribuito secondo i principi generali determinati dalla legge dello Stato. Possono ricorrere all'indebitamento solo per finanziare spese di investimento, con la contestuale definizione di piani di ammortamento e a condizione che per il complesso degli enti di ciascuna Regione sia rispettato l'equilibrio di bilancio. È esclusa ogni garanzia dello Stato sui prestiti dagli stessi contratti.
 
 #####Art. 120.
 La Regione non può istituire dazi di importazione o esportazione o transito tra le Regioni, né adottare provvedimenti che ostacolino in qualsiasi modo la libera circolazione delle persone e delle cose tra le Regioni, né limitare l’esercizio del diritto al lavoro in qualunque parte del territorio nazionale.
