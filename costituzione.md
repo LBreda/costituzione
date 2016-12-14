@@ -70,7 +70,7 @@ La bandiera della Repubblica è il tricolore italiano: verde, bianco e rosso, a 
 ##PARTE I - DIRITTI E DOVERI DEI CITTADINI
 
 
-##TITOLO I - RAPPORTI CIVILI
+###TITOLO I - RAPPORTI CIVILI
 
 #####Art. 13.
 La libertà personale è inviolabile.
