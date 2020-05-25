@@ -508,7 +508,7 @@ In ogni caso l’amnistia e l’indulto non possono applicarsi ai reati commessi
 Le Camere autorizzano con legge la ratifica dei trattati internazionali che sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o importano variazioni del territorio od oneri alle finanze o modificazioni di leggi.
 
 ##### Art. 81.
-o Stato assicura l'equilibrio tra le entrate e le spese del proprio bilancio, tenendo conto delle fasi avverse e delle fasi favorevoli del ciclo economico.
+Lo Stato assicura l'equilibrio tra le entrate e le spese del proprio bilancio, tenendo conto delle fasi avverse e delle fasi favorevoli del ciclo economico.
 
 Il ricorso all’indebitamento è consentito solo al fine di considerare gli effetti del ciclo economico e, previa autorizzazione
 delle Camere adottata a maggioranza assoluta dei rispettivi componenti, al verificarsi di eventi eccezionali.
