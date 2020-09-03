@@ -364,20 +364,20 @@ Il Parlamento si riunisce in seduta comune dei membri delle due Camere nei soli 
 ##### Art. 56.
 La Camera dei deputati è eletta a suffragio universale e diretto.
 
-Il numero dei deputati è di seicentotrenta, dodici dei quali eletti nella circoscrizione Estero.
+Il numero dei deputati è di quattrocento, otto dei quali eletti nella circoscrizione Estero.
 
 Solo eleggibili a deputati tutti gli elettori che nel giorno delle elezioni hanno compiuto i venticinque anni di età.
 
-La ripartizione dei seggi tra le circoscrizioni, fatto salvo il numero dei seggi assegnati alla circoscrizione Estero, si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per seicentodiciotto e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti.
+La ripartizione dei seggi tra le circoscrizioni, fatto salvo il numero dei seggi assegnati alla circoscrizione Estero, si effettua dividendo il numero degli abitanti della Repubblica, quale risulta dall'ultimo censimento generale della popolazione, per trecentonovantadue e distribuendo i seggi in proporzione alla popolazione di ogni circoscrizione, sulla base dei quozienti interi e dei più alti resti.
 
 ##### Art. 57.
 Il Senato della Repubblica è eletto a base regionale, salvi i seggi assegnati alla circoscrizione Estero.
 
-Il numero dei senatori elettivi è di trecentoquindici, sei dei quali eletti nella circoscrizione Estero.
+Il numero dei senatori elettivi è di duecento, quattro dei quali eletti nella circoscrizione Estero.
 
-Nessuna Regione può avere un numero di senatori inferiore a sette; il Molise ne ha due, la Valle d’Aosta uno.
+Nessuna Regione o Provincia autonoma può avere un numero di senatori inferiore a tre; il Molise ne ha due, la Valle d’Aosta uno.
 
-La ripartizione dei seggi tra le Regioni, fattosalvo il numero dei seggi assegnati alla circoscrizione Estero, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla popolazione delle Regioni, quale risulta dall’ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti.
+La ripartizione dei seggi tra le Regioni o le Province autonome, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla loro popolazione, quale risulta dall’ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti.
 
 ##### Art. 58.
 I senatori sono eletti a suffragio universale e diretto dagli elettori che hanno superato il venticinquesimo anno di età.
@@ -387,7 +387,7 @@ Sono eleggibili a senatori gli elettori che hanno compiuto il quarantesimo anno.
 ##### Art. 59.
 È senatore di diritto e a vita, salvo rinunzia, chi è stato Presidente della Repubblica.
 
-Il Presidente della Repubblica può nominare senatori a vita cinque cittadini che hanno illustrato la Patria per altissimi meriti nel campo sociale, scientifico, artistico e letterario.
+Il Presidente della Repubblica può nominare senatori a vita cittadini che hanno illustrato la Patria per altissimi meriti nel campo sociale, scientifico, artistico e letterario. Il numero complessivo dei senatori in carica nominati dal Presidente della Repubblica non può in alcun caso essere superiore a cinque.
 
 ##### Art. 60.
 La Camera dei deputati e il Senato della Repubblica sono eletti per cinque anni.
