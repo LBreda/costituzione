@@ -843,6 +843,8 @@ Le risorse derivanti dalle fonti di cui ai commi precedenti consentono ai Comuni
 
 Per promuovere lo sviluppo economico, la coesione e la solidarietà sociale, per rimuovere gli squilibri economici e sociali, per favorire l’effettivo esercizio dei diritti della persona, o per provvedere a scopi diversi dal normale esercizio delle loro funzioni, lo Stato destina risorse aggiuntive ed effettua interventi speciali in favore di determinati Comuni, Province, Città metropolitane e Regioni.
 
+La Repubblica riconosce le peculiarità delle Isole  e  promuove le  misure necessarie a rimuovere gli svantaggi derivanti dall'insularità.
+
 I Comuni, le Province, le Città metropolitane e le Regioni hanno un proprio patrimonio, attribuito secondo i principi generali determinati dalla legge dello Stato. Possono ricorrere all'indebitamento solo per finanziare spese di investimento, con la contestuale definizione di piani di ammortamento e a condizione che per il complesso degli enti di ciascuna Regione sia rispettato l'equilibrio di bilancio. È esclusa ogni garanzia dello Stato sui prestiti dagli stessi contratti.
 
 ##### Art. 120.
