@@ -380,7 +380,7 @@ Nessuna Regione o Provincia autonoma può avere un numero di senatori inferiore 
 La ripartizione dei seggi tra le Regioni o le Province autonome, previa applicazione delle disposizioni del precedente comma, si effettua in proporzione alla loro popolazione, quale risulta dall’ultimo censimento generale, sulla base dei quozienti interi e dei più alti resti.
 
 ##### Art. 58.
-I senatori sono eletti a suffragio universale e diretto dagli elettori che hanno superato il venticinquesimo anno di età.
+I senatori sono eletti a suffragio universale e diretto.
 
 Sono eleggibili a senatori gli elettori che hanno compiuto il quarantesimo anno.
 
