@@ -51,6 +51,8 @@ La Repubblica promuove lo sviluppo della cultura e la ricerca scientifica e tecn
 
 Tutela il paesaggio e il patrimonio storico e artistico della Nazione.
 
+Tutela l'ambiente, la  biodiversita'  e  gli  ecosistemi,  anche nell'interesse  delle  future  generazioni.  La  legge  dello Stato disciplina i modi e le forme di tutela degli animali.
+
 ##### Art. 10.
 L’ordinamento giuridico italiano si conforma alle norme del diritto internazionale generalmente riconosciute.
 
@@ -271,9 +273,9 @@ Il diritto di sciopero si esercita nell’ambito delle leggi che lo regolano.
 ##### Art. 41.
 L’iniziativa economica privata è libera.
 
-Non può svolgersi in contrasto con l’utilità sociale o in modo da recare danno alla sicurezza, alla libertà, alla dignità umana.
+Non può svolgersi in contrasto con l’utilità sociale o in modo da recare danno alla salute, all'ambiente, alla sicurezza, alla libertà, alla dignità umana.
 
-La legge determina i programmi e i controlli opportuni perché l’attività economica pubblica e privata possa essere indirizzata e coordinata a fini sociali.
+La legge determina i programmi e i controlli opportuni perché l’attività economica pubblica e privata possa essere indirizzata e coordinata a fini sociali e ambientali.
 
 ##### Art. 42.
 La proprietà è pubblica o privata. I beni economici appartengono allo Stato, ad enti o a privati.
