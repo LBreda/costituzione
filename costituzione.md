@@ -1,4 +1,4 @@
-# COSTITUZIONE DELLA REPUBBLICA ITALIANA
+![Logo_Parrocchia](https://github.com/LBreda/costituzione/assets/633783/b47e7495-992e-4e89-bc2d-b616b7226784)# COSTITUZIONE DELLA REPUBBLICA ITALIANA
 
 **IL CAPO PROVVISORIO DELLO STATO**
 
@@ -211,6 +211,8 @@ La legge, nel fissare i diritti e gli obblighi delle scuole non statali che chie
 È prescritto un esame di Stato per l’ammissione ai vari ordini e gradi di scuole o per la conclusione di essi e per l’abilitazione all’esercizio professionale.
 
 Le istituzioni di alta cultura, università ed accademie, hanno il diritto di darsi ordinamenti autonomi nei limiti stabiliti dalle leggi dello Stato.
+
+La Repubblica  riconosce  il  valore  educativo,  sociale  e  di promozione del benessere psicofisico dell'attività sportiva in tutte le sue forme.
 
 ##### Art. 34.
 La scuola è aperta a tutti.
